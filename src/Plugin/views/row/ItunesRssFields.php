@@ -153,6 +153,7 @@ class ItunesRssFields extends RssFields {
       }
     }
 
+    $row_index++;
     return $build;
   }
 
