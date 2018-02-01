@@ -1,15 +1,15 @@
 {
-  "name": "grasmash/drupal-views_rss_itunes",
-  "description": "Views RSS iTunes adds iTunes support to Views.",
+  "name": "ten7/itunes_rss",
+  "description": "Views RSS iTunes adds iTunes support to Views. Fork of grasmash/drupal-views-itunes-rss",
   "type": "drupal-module",
-  "homepage": "https://github.com/grasmash/drupal-views-itunes-rss",
+  "homepage": "https://github.com/ten7/drupal-views-itunes-rss",
   "authors": [
     {
       "name": "Matthew Grasmick"
+    },
+    {
+      "name": "Les Lim"
     }
   ],
-  "support": {
-    "issues": "https://github.com/grasmash/drupal-views-itunes-rss/issues"
-  },
   "license": "GPL-2.0+"
 }
