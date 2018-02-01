@@ -51,8 +51,6 @@ class ItunesRssFields extends RssFields {
       'episode',
       'season',
       'author',
-      'summary',
-      'duration',
       'explicit',
       'block',
       'duration',
